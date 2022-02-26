@@ -1,0 +1,15 @@
+/.idea
+.DS_Store
+/phaser-3.55.2
+# local env files
+.env.local
+.env.*.local
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
